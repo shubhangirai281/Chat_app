@@ -14,6 +14,7 @@ Install Dependencies
 Start the application
 
 > $ npm start
+
 > $ npm run dev
 
 Your app should now be running on localhost:3000.
