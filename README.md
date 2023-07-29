@@ -1,6 +1,7 @@
 ### Installation
 
 **Running Locally**
+
 Make sure you have Node.js and npm installed.
 
 Clone or Download the repository
